@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Overview
-The following will contain my case study on the fictional bike-share company, Cyclystic. This case study is in relation to the Google Data Analytics Professional Certificate. I received the data from this program through this link. However, the data has been made available Motivate International Inc. under this license. 
+The following will contain my case study on the fictional bike-share company, Cyclystic. This case study is in relation to the Google Data Analytics Professional Certificate. I received the data from this program through this [link](https://divvy-tripdata.s3.amazonaws.com/index.html). However, the data has been made available Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement). The CSV files for this project are very large, especially when put together. That being said, I will be using R and RStudio to clean, analyze, and visualize this data as these tools are better suited for large datasets.  
 
 
 ### About the Company
