@@ -1,11 +1,2 @@
-name: "MyLabJournal"
-navbar:
-  title: "MyLabJournal"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Journal"
-      href: Journal.html
-    - text: "Links"
-      href: Links.html
+name: "GDAC Case Study"
 output_dir: "docs"
