@@ -1,6 +1,0 @@
-name: GDAC_case_study
-output:
-  html_document:
-    theme: jekyll-theme-cayman
-
-theme: jekyll-theme-cayman
