@@ -2,5 +2,5 @@ name: "GDAC Case Study"
 navbar:
   title: "Google Data Analytics Certificate Case Study"
     - text: "Home"
-      href: GDAC_report.html
+      href: index.html
 output_dir: "docs"
