@@ -3,7 +3,9 @@ title: "Google Data Analytics Certificate Case Study"
 subtitle: "Cyclystic - How does a bike-share navigate speedy success?"
 author: "Austin Seo"
 date: "12/13/2021"
-output: html_document
+output: 
+  html_document:
+    theme: jekyll-theme-cayman
 ---
 
 ```{r setup, include=FALSE}
