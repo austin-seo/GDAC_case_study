@@ -4,10 +4,12 @@ subtitle: "Cyclystic - How does a bike-share navigate speedy success?"
 author: "Austin Seo"
 date: "12/13/2021"
 output: html_document
+output_dir: "."
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+rmarkdown::render_site()
 ```
 
 ## Overview
